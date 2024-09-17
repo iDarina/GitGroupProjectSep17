@@ -101,7 +101,7 @@ Click "Compare & pull request," which will take you to the "Open a pull request"
 
 **Success and Deletion**
 - You should now see a message that says **"Pull request successfully merged and closed"**. 
-- After the merge is finalized, you can click `Delete branch` to remove the old branch.
+- After the merge is finalized, you can click `Delete branch` to remove the old branch *if called for*.
 
 ![deletebranch](https://github.com/user-attachments/assets/02f9cafd-f44f-4ea0-9449-fa9879fb51eb)
 
