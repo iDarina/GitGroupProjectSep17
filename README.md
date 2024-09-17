@@ -45,6 +45,11 @@ This guide explains how to collaborate on a project using GitHub. Follow these i
 
    And if you go to your Github Repo page and refresh, you’ll see the ReadMe that you intialized with and the reference to the first commit you made.
 
-   
+** Set up your team
+Click on the "Settings" tap of your rep, then "Collaborators" then search for GitHub users and add them by clicking "Add Collaborators":
+<img width="1314" alt="Screenshot 2024-09-17 at 3 40 36 PM" src="https://github.com/user-attachments/assets/0fd27492-e3a6-4b0a-b378-123b1fa1663f">
+
+
+
 
      
