@@ -9,6 +9,7 @@ This guide explains how to collaborate on a project using GitHub. Follow these i
 4. Submitting a Pull Request
 5. Merging a Pull Request
 
+
    ## Initializing a New Project
 
    **Create a Local Repository**:
@@ -45,7 +46,8 @@ This guide explains how to collaborate on a project using GitHub. Follow these i
 
    And if you go to your Github Repo page and refresh, you’ll see the ReadMe that you intialized with and the reference to the first commit you made.
 
-## Set up your team
+
+## Setting up your team
 Click on the "Settings" tap of your rep, then "Collaborators" then search for GitHub users and add them by clicking "Add Collaborators":
 <img width="1314" alt="Screenshot 2024-09-17 at 3 40 36 PM" src="https://github.com/user-attachments/assets/0fd27492-e3a6-4b0a-b378-123b1fa1663f">
 
@@ -68,6 +70,10 @@ Next you want to enter into the repo directory you cloned
 ```bash
 cd <directory-name>
 ```
+
+
+## Collaborating With Branches
+
 Once in the directory you want to add changes it's best to branch off to make the changes
 <img width="437" alt="where to go and creating a branch" src="https://github.com/user-attachments/assets/2a51dc6d-be0a-4e09-9e8d-285577c3cf04">
 
@@ -86,6 +92,9 @@ git add <file you want to stage>
 git commit -m"message explaining the changes"
 ```
 <img width="461" alt="commiting and getting it ready to be pushed" src="https://github.com/user-attachments/assets/32cd3a46-9ac7-4beb-9769-dc7bd096a620">
+
+
+## Submitting a Pull Request
 
 Your team worked hard on their features in separate branches and now it's time to merge them into the Master branch for deployment. Establishing a Git Flow is crucial for teamwork.
 
