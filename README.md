@@ -3,11 +3,11 @@
 This guide explains how to collaborate on a project using GitHub. Follow these instructions to set up and manage group projects.
 
 ## Table of Contents
-1. [Initializing a New Project]
-2. [Setting Up Your Team]
-3. [Collaborating with Branches]
-4. [Submitting a Pull Request]
-5. [Merging a Pull Request]
+1. Initializing a New Project
+2. Setting Up Your Team
+3. Collaborating with Branches
+4. Submitting a Pull Request
+5. Merging a Pull Request
 
    ## Initializing a New Project
 
