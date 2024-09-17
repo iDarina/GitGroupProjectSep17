@@ -49,6 +49,10 @@ This guide explains how to collaborate on a project using GitHub. Follow these i
 Click on the "Settings" tap of your rep, then "Collaborators" then search for GitHub users and add them by clicking "Add Collaborators":
 <img width="1314" alt="Screenshot 2024-09-17 at 3 40 36 PM" src="https://github.com/user-attachments/assets/0fd27492-e3a6-4b0a-b378-123b1fa1663f">
 
+They will receive an email letting them know you added them and will be listed as a collaborator:
+<img width="675" alt="Screenshot 2024-09-17 at 4 00 42 PM" src="https://github.com/user-attachments/assets/6da93ccb-d975-4737-bee9-77c1e0f653f1">
+
+
 
 
 
