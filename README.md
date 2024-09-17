@@ -52,6 +52,40 @@ Click on the "Settings" tap of your rep, then "Collaborators" then search for Gi
 They will receive an email letting them know you added them and will be listed as a collaborator:
 <img width="675" alt="Screenshot 2024-09-17 at 4 00 42 PM" src="https://github.com/user-attachments/assets/6da93ccb-d975-4737-bee9-77c1e0f653f1">
 
+Once you've been added you go back to the "Code" tab and copy thie link under the "code" drop down
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/a4c90e9e-be89-4eae-a41a-38609b632679">
+
+Now you can go back into your git/terminal
+-In your Git Bash, run:
+```bash
+git clone <link copied>
+```
+<img width="441" alt="git clone" src="https://github.com/user-attachments/assets/7a871cc3-4b88-4484-b081-493db7488171">
+
+Next you want to enter into the repo directory you cloned 
+
+-In Git Bash, run:
+```bash
+cd <directory-name>
+```
+Once in the directory you want to add changes it's best to branch off to make the changes
+<img width="437" alt="where to go and creating a branch" src="https://github.com/user-attachments/assets/2a51dc6d-be0a-4e09-9e8d-285577c3cf04">
+
+-In git bash, run:
+```bash
+git checkout -b <branch-name>
+```
+this will take you directly inside the branch and changes you make inside won't affect the project until 
+they are completed
+
+When all of the changes are made you need to get it ready to be merged and pushed
+
+-In Git Bash, run:
+```bash
+git add <file you want to stage>
+git commit -m"message explaining the changes"
+```
+<img width="461" alt="commiting and getting it ready to be pushed" src="https://github.com/user-attachments/assets/32cd3a46-9ac7-4beb-9769-dc7bd096a620">
 
 Your team worked hard on their features in separate branches and now it's time to merge them into the Master branch for deployment. Establishing a Git Flow is crucial for teamwork.
 
