@@ -88,7 +88,7 @@ Click "Compare & pull request," which will take you to the "Open a pull request"
 - Once you click this button, you are now able to review the changes. 
 - In this screen, there is a green button that says `Review Changes` with a **drop-down menu**.
 - Here is where you will choose if you need to leave comments for adjustments, or approve the changes. 
-- You will then click `Submit Review`.
+- When finished, you will then click `Submit Review`.
 
 ![reviewchangesgithub](https://github.com/user-attachments/assets/63237e8a-f60f-46f8-86a5-b49d58de19c4)
 
