@@ -35,6 +35,10 @@ This guide explains how to collaborate on a project using GitHub. Follow these i
      ```
      *Found on GitHub project home page*
 
+     Your Git Bash should look like this when you’re done:
+
+     ![result of linked repo](screenshots/resultOfGithubRepo.png)
+
    This adds a ‘.git’ folder to your repo, connects you to your remote Github Repo and also gives you a ‘.gitignore’ file.
    
    ![git ignore added](screenshots/gitIgnoreImage.png)
