@@ -53,7 +53,17 @@ They will receive an email letting them know you added them and will be listed a
 <img width="675" alt="Screenshot 2024-09-17 at 4 00 42 PM" src="https://github.com/user-attachments/assets/6da93ccb-d975-4737-bee9-77c1e0f653f1">
 
 
+Your team worked hard on their features in separate branches and now it's time to merge them into the Master branch for deployment. Establishing a Git Flow is crucial for teamwork.
 
+Assign one person to manage merging, like a "Reviewer" or "Merge Master," to avoid conflicts.
+Everyone should git push their branches for review and merging.
 
+<img width="684" alt="Screenshot 2024-09-17 at 4 42 41 PM" src="https://github.com/user-attachments/assets/2c773a73-5ebe-4e41-a889-085661069913">
 
-     
+Now, navigate to the GitHub repository page. You should see the branch you pushed in a yellow bar at the top with a "Compare & pull request" button.
+
+<img width="658" alt="Screenshot 2024-09-17 at 4 43 47 PM" src="https://github.com/user-attachments/assets/0ca7fdc1-fb48-47ee-96cc-07a20863c009">
+
+Click "Compare & pull request," which will take you to the "Open a pull request" page. Write a brief description of the changes you made. Then, under the "Reviewers" tab, select your team's "Merge Master." Finally, click "Create pull request."
+
+<img width="675" alt="Screenshot 2024-09-17 at 4 45 23 PM" src="https://github.com/user-attachments/assets/6533063a-5034-4ebf-a4c2-bf29597db1ad">
