@@ -36,6 +36,11 @@ This guide explains how to collaborate on a project using GitHub. Follow these i
      *Found on GitHub project home page*
 
    This adds a ‘.git’ folder to your repo, connects you to your remote Github Repo and also gives you a ‘.gitignore’ file.
+   
    ![git ignore added](screenshots/gitIgnoreImage.png)
+
+   And if you go to your Github Repo page and refresh, you’ll see the ReadMe that you intialized with and the reference to the first commit you made.
+
+   
 
      
